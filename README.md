@@ -1,8 +1,7 @@
 # 💫 About Me:
 I’m currently working on building full-stack web applications using Java (Spring Boot, Hibernate) and Python (Django, Flask).<br>👯 I’m looking to collaborate on open-source projects, innovative software solutions, and scalable web applications.<br>🤝 I’m looking for help with advanced backend development techniques, cloud deployment, and microservices.<br>🌱 I’m currently learning Spring Boot, advanced Java concepts, and improving my problem-solving with real-world projects.<br>💬 Ask me about Java, Python, Django, Flask, Spring Boot, SQL, or anything related to full-stack development.<br>⚡ Fun fact I love painting 🎨 (participated in exhibitions), enjoy bonsai cultivation 🌱, and cycling 🚴 in my free time.
 
-<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="800">
-
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="800">
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/thelegend045_81634) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pratapmlllll) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pratap-laddiyavar-462900238/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratapladdiyavar45@gmail.com) 
